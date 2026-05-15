@@ -1,13 +1,9 @@
 # 👋 Olá, eu sou Edmo
 
-🎓 Engenheiro de Produção (Univasf) com intercâmbio acadêmico na Indiana Institute of Technology (IndianaTech)
-
-🎓 Mestre em Engenharia Agrícola (Univasf)
-
-🎓 Doutor em Biotecnologia (UFRPE)
-
-💻 Análise de dados e aprendizado de máquina
-
+🎓 Engenheiro de Produção (Univasf) com intercâmbio acadêmico na Indiana Institute of Technology (IndianaTech)  
+🎓 Mestre em Engenharia Agrícola (Univasf)  
+🎓 Doutor em Biotecnologia (UFRPE)  
+💻 Análise de dados e aprendizado de máquina  
 📍 Juazeiro-BA
 <!--📫 Contato: [email@email.com] -->
 
@@ -15,8 +11,8 @@
 
 ## 🚀 Sobre mim
 
-Pesquisador de pós-doutorado no Laboratório de Automação e Inteligência para Sistemas Agrícolas (LAISA), na UNIVASF.
-Interesse em IA, otimização e ciência de dados.
+Pesquisador de pós-doutorado no Laboratório de Automação e Inteligência para Sistemas Agrícolas (LAISA), na UNIVASF.  
+Interesse em IA, otimização e ciência de dados.  
 
 ---
 
