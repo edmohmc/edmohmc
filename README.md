@@ -1,4 +1,6 @@
-# 👋 Olá, eu sou Edmo
+# Olá! Bem-vindo(a) ao meu repositório!
+
+## 🚀 Sobre mim
 
 🎓 Engenheiro de Produção (Univasf) com intercâmbio acadêmico na Indiana Institute of Technology (IndianaTech)  
 🎓 Mestre em Engenharia Agrícola (Univasf)  
@@ -7,14 +9,18 @@
 📍 Juazeiro-BA
 <!--📫 Contato: [email@email.com] -->
 
----
-
-## 🚀 Sobre mim
-
 Pesquisador de pós-doutorado no Laboratório de Automação e Inteligência para Sistemas Agrícolas (LAISA), na UNIVASF.  
 Interesse em IA, otimização e ciência de dados.  
 
----
+<!--## Hard Skills
+
+Python (scikit-learn, pandas, numpy, matplotlib, seaborn)
+SQL
+Machine Learning (Modelos supervisionados e não supervisionados)
+Estatística descritiva e inferencial aplicada à análise de dados
+Excel e PowerBI
+R
+Git & Version Control-->
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -50,8 +56,6 @@ Interesse em IA, otimização e ciência de dados.
 - Docker
 - Linux
 -->
-
----
 
 ## 📚 Áreas de Interesse
 
