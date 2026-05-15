@@ -43,11 +43,11 @@ Interesse em IA, otimização e ciência de dados.
 
 ### Ferramentas
 - Git
+- VS Code
 <!--
 - Docker
 - Linux
 -->
-- VS Code
 
 ---
 
