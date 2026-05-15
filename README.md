@@ -67,8 +67,8 @@ Git & Version Control-->
 - Otimização
 <!--
 - Desenvolvimento Web
-
-
+--
+🏆 Certificações
 ---
 
 ## 📈 Estatísticas GitHub
