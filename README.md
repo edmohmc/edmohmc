@@ -1,10 +1,14 @@
 # 👋 Olá, eu sou Edmo
 
 🎓 Engenheiro de Produção (Univasf) com intercâmbio acadêmico na Indiana Institute of Technology (IndianaTech)
+
 🎓 Mestre em Engenharia Agrícola (Univasf)
+
 🎓 Doutor em Biotecnologia (UFRPE)
+
 💻 Análise de dados e aprendizado de máquina
-📍 Juazeiro-BA 
+
+📍 Juazeiro-BA
 <!--📫 Contato: [email@email.com] -->
 
 ---
