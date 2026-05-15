@@ -38,8 +38,10 @@ Interesse em IA, otimização e ciência de dados.
 
 ### Banco de Dados
 - MySQL
+<!--
 - PostgreSQL
 - MongoDB
+-->
 
 ### Ferramentas
 - Git
